@@ -1,0 +1,4 @@
+wday:
+  security:
+    username: admin
+    password: admin
